@@ -1,0 +1,8 @@
+{
+    "products": [12: {
+         "id": 12,
+        "type": "bb",
+        "name": "Broadband1",
+        "price": "40" }
+    ]
+}
